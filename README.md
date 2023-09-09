@@ -7,6 +7,8 @@ This project aims to classify stars into different categories, including Red Dwa
 ## Dataset
 
 You can access the dataset used in this project on Kaggle at the following link: [Star Dataset](https://www.kaggle.com/datasets/deepu1109/star-dataset?datasetId=391127).
+Here's a quick summary of the data:
+
 
 ## Challenges and Solutions
 
